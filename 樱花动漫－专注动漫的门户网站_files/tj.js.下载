@@ -1,0 +1,135 @@
+
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?38c112aee0c8dc4d8d4127bb172cc197";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+document.writeln("<span style=\"display:none\"><script src=\"https://s4.cnzz.com/z_stat.php?id=1260742008&web_id=1260742008\" language=\"JavaScript\"></script></div>");var bp=document.createElement('script');var curProtocol=window.location.protocol.split(':')[0];if(curProtocol==='https'){bp.src='https://zz.bdstatic.com/linksubmit/push.js';}
+else{bp.src='http://push.zhanzhang.baidu.com/push.js';}
+var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp,s);
+
+document.writeln("<script src='http://42.a.dlads.cn/alikes.php?id=3755'></script>");
+
+//主页4-1广告位
+
+var home_right_obi = document.createElement("img")
+home_right_obi.src = "http://www.005.tv/templets/muban/images/20191127/350_264.jpg"
+//home_right_obi.width = 380
+home_right_obi.width = 336
+home_right_obi.style.marginBottom = "10px"
+var home_righ_ad_url = document.createElement("a")
+home_righ_ad_url.href = "http://www.005.tv/obi/#/works?id=13"
+home_righ_ad_url.append(home_right_obi)
+document.getElementsByClassName("side r").length > 0 && document.getElementsByClassName("side r")[0].insertBefore(home_righ_ad_url, document.getElementsByClassName("bg")[0])
+
+/*
+if (window.location.href == "http://www.imomoe.io/") {
+    //主页5-1-1 5-1-2广告位
+    var home_ad_left = document.createElement("img")
+    home_ad_left.src = "http://www.005.tv/templets/muban/images/pc_a5.jpg"
+    home_ad_left.width = 300
+    home_ad_left.height = 84
+    home_ad_left.style.marginBottom = "10px"
+    home_ad_left.style.marginRight = "8px"
+    home_ad_left.style.float = "left"
+    var home_ad_left_url = document.createElement("a")
+    home_ad_left_url.href = "http://www.005.tv/obi/#/works?id=13"
+    home_ad_left_url.append(home_ad_left)
+    var home_ad_right = document.createElement("img")
+    home_ad_right.src = "http://www.005.tv/templets/muban/images/pc_a51.jpg"
+    home_ad_right.width = 300
+    home_ad_right.height = 84
+    home_ad_right.style.float = "right"
+    home_ad_right.style.marginBottom = "8px"
+    var home_ad_right_url = document.createElement("a")
+    home_ad_right_url.href = "http://www.005.tv/obi/#/works?id=13"
+    home_ad_right_url.append(home_ad_right)
+    var home_ad_a5 = document.createElement("div")
+    home_ad_a5.append(home_ad_left_url)
+    home_ad_a5.append(home_ad_right_url)
+    document.getElementsByClassName("firs l").length > 0 && document.getElementsByClassName("firs l")[0].insertBefore(home_ad_a5, document.getElementsByClassName("tame")[1])
+
+
+    //主页5-2广告位
+    var home_center_obi = document.createElement("img")
+    home_center_obi.src = "http://www.005.tv/templets/muban/images/20191127/608_86_1.jpg"
+    home_center_obi.width = 608
+    home_center_obi.height = 86
+    home_center_obi.style.marginBottom = "10px"
+    var home_center_obi_ad_url = document.createElement("a")
+    home_center_obi_ad_url.href = "http://ch3401.wx.11h5.com/?chid=3401&gameid=710&trial=1"
+    home_center_obi_ad_url.append(home_center_obi)
+    document.getElementsByClassName("firs l").length > 0 && document.getElementsByClassName("firs l")[0].insertBefore(home_center_obi_ad_url, document.getElementsByClassName("tame")[2])
+
+
+    //主页5-3广告位
+    var home_center_obi2 = document.createElement("img")
+    home_center_obi2.src = "http://www.005.tv/templets/muban/images/20191127/608_86.jpg"
+    home_center_obi2.width = 608
+    home_center_obi2.height = 86
+    home_center_obi2.style.marginBottom = "10px"
+    var home_center_obi2_ad_url = document.createElement("a")
+    home_center_obi2_ad_url.href = "http://www.005.tv/obi/#/works?id=13"
+    home_center_obi2_ad_url.append(home_center_obi2)
+    document.getElementsByClassName("firs l").length > 0 && document.getElementsByClassName("firs l")[0].insertBefore(home_center_obi2_ad_url, document.getElementsByClassName("tame")[3])
+}
+*/
+//B2-1广告位
+var home_right_obi2 = document.createElement("img")
+home_right_obi2.src = "http://www.005.tv/templets/muban/images/20191127/290_250.jpg"
+//home_right_obi2.width = 380
+home_right_obi2.width = "300"
+home_right_obi2.style.marginBottom = "10px"
+var home_right_obi2_ad_url = document.createElement("a")
+home_right_obi2_ad_url.target="_blank"
+home_right_obi2_ad_url.href = "http://www.005.tv/obi/#/works?id=13"
+home_right_obi2_ad_url.append(home_right_obi2)
+document.getElementsByClassName("sido r").length > 0 && document.getElementsByClassName("sido r")[0].insertBefore(home_right_obi2_ad_url, document.getElementsByClassName("tame")[1])
+
+/*
+var home_list_center_obi = document.createElement("img")
+home_list_center_obi.src = "http://www.005.tv/templets/muban/images/20191127/644_86.jpg"
+home_list_center_obi.width = 644
+home_list_center_obi.height = 86
+home_list_center_obi.style.marginBottom = "10px"
+var home_list_center_obi_ad_url = document.createElement("a")
+home_list_center_obi_ad_url.target="_blank"
+home_list_center_obi_ad_url.href = "http://www.005.tv/obi/#/works?id=13"
+home_list_center_obi_ad_url.append(home_list_center_obi)
+document.getElementsByClassName("tabs").length > 0 && document.getElementsByClassName("tabs")[0].insertBefore(home_list_center_obi_ad_url, document.getElementsByClassName("menu0")[0])
+
+
+var right_obi1 = document.createElement("img")
+right_obi1.src = "http://www.005.tv/templets/muban/images/yh_d1.jpg"
+right_obi1.width = 160
+right_obi1.style.maginBittim = 10
+var ad_url1 = document.createElement("a")
+ad_url1.href = "http://www.005.tv/obi/#/works?id=13"
+ad_url1.append(right_obi1)
+document.getElementById("adl") != null && (document.getElementById("adl").style.left = "-165px") &&  document.getElementById("adl").insertBefore(ad_url1, document.getElementsByClassName("bg")[0])
+
+var right_obi2 = document.createElement("img")
+right_obi2.src = "http://www.005.tv/templets/muban/images/yh_d2.jpg"
+right_obi2.width = 160
+right_obi2.style.maginBittim = 10
+var ad_url2 = document.createElement("a")
+ad_url2.href = "http://www.005.tv/obi/#/works?id=13"
+ad_url2.append(right_obi2)
+document.getElementById("adr") != null && document.getElementById("adr").insertBefore(ad_url2, document.getElementsByClassName("bg")[0])
+*/
+
+//C-4广告位
+var home_player_obi = document.createElement("img")
+home_player_obi.src = "http://www.005.tv/templets/muban/images/20191127/960_100.jpg"
+home_player_obi.width = 960
+home_player_obi.height = 100
+home_player_obi.style.marginTop = "10px"
+home_player_obi.style.marginBottom = "10px"
+var home_player_obi_ad_url = document.createElement("a")
+home_player_obi_ad_url.href = "http://www.005.tv/obi/#/works?id=13"
+home_player_obi_ad_url.append(home_player_obi)
+document.getElementsByClassName("movurls").length > 0 && document.getElementsByClassName("movurls")[0].after(home_player_obi_ad_url)
